@@ -1,1 +1,7 @@
-
+{
+	"name": "LNM MANHLINH PreView",
+	"description": "LNM on PreView. Stake with LNM stake pool and get gratis ADA",
+	"ticker": "LNM",
+	"homepage": "https://cardano.org",
+	"extended": "https://developers.cardano.org/docs/operate-a-stake-pool"
+}
